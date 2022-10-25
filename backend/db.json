@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Branca",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Smart phone",
+      "price": 1900
+    },
+    {
+      "name": "Camiseta maromba",
+      "price": 70,
+      "id": 4
+    }
+  ]
+}
